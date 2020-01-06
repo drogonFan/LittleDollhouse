@@ -16,3 +16,14 @@ The specific supported functions are as follows:
 + group chat
 + p2p chat
 + p2p file transfer
+
+
+## Distributed database
+
+上完分布式数据课程后写的一个大作业，使用mongodb实现了一个分布式的数据库应用
+
+数据库的结构为：
+
++ 3个配置服务器
++ 9个数据服务器
++ 3个mongos服务
