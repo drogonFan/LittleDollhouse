@@ -28,3 +28,9 @@ The specific supported functions are as follows:
 + 3个配置服务器
 + 9个数据服务器
 + 3个mongos服务
+
+## Pushpush 小程序
+
+项目进度：
+
+[x]    20/02/14：凑齐了项目小组人员，对设计进行了完善，主题定为：激励大家最近在家学习，然后附带一个打卡给自己的大学助力打榜
